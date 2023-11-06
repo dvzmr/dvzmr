@@ -1,6 +1,6 @@
 # Hello, I'm [David Moura]
 
-Welcome to my GitHub profile! This is where you can learn more about me, my work, and my interests in the I.T and Computer Science fields.
+Welcome to my GitHub profile! This is where you can learn more about me, my work, and my interests in I.T field.
 
 ## About Me
 
