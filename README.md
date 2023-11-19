@@ -11,12 +11,11 @@ Welcome to my GitHub profile! This is where you can learn more about me, my work
 
 ## Experience
 
--  👔 Looking for my first job or internship opportunity in Software Development or Cybersecurity
+-  👔 Looking for my first job or internship opportunity in Software Development
 
 ## Interests
 
 - 🤖 Application Development
-- 🌐 Cybersecurity and Pentest
 - 📈 System Analysis and Architecture
 - 🎯 Database Design and Optimization
   
