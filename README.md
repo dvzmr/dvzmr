@@ -4,7 +4,7 @@ Welcome to my GitHub profile! This is where you can learn more about me, my work
 
 ## About Me
 
-- 👨‍💻 Software Engineering Student student at FIAP
+- 👨‍💻 Software Engineering student at FIAP
 - 🌍 Tech enthusiast, science lover, and travel addict
 - 📚 Learning new things every day
 
