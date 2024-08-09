@@ -1,7 +1,5 @@
 # Hello, I'm [David Moura]
 
-Welcome to my GitHub profile! This is where you can learn more about me, my work, and my interests in I.T field.
-
 ## About Me
 
 - 👨‍💻 Software Engineering student at FIAP
@@ -12,12 +10,6 @@ Welcome to my GitHub profile! This is where you can learn more about me, my work
 
 -  👔 Looking for my first job or internship opportunity in Software Development
 
-## Interests
-
-- 🤖 Application Development
-- 📈 System Analysis and Architecture
-- 🎯 Database Design and Optimization
-  
 ## Contact
 
 - 📧 Email: mourazdavid@gmail.com 
